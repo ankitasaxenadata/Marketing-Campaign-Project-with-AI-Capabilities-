@@ -1,4 +1,4 @@
-# 📊 Marketing Campaign AI Agent System
+# 📊 Marketing Campaign AI Agent System - Group 1
 
 > An intelligent multi-agent system that transforms 200,000+ marketing campaign records into real-time, actionable recommendations — covering strategy, ROI prediction, performance analysis, and budget allocation.
 
